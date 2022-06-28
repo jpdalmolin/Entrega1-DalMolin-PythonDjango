@@ -20,4 +20,8 @@ Se puede testear la busqueda de un familiar por nombre en la seccion Buscar, o h
 
 todos los formularios de creacion funcionales, todo desde navBar.
 
+Usuario:admin
+contraseña:123456Coder
+
+
 Juan Pablo
